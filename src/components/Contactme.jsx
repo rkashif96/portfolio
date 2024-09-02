@@ -31,9 +31,9 @@ const Contactme = () => {
                     Me
                 </motion.p>
             </div>
-            <div className='bg-transparent mb-20 flex items-center justify-between py-6 px-20'>
+{/*             <div className='bg-transparent mb-20 flex items-center justify-between py-6 px-20'>
                <p className='bg-clip-text text-transparent bg-gradient-to-r from-indigo-300 via-sky-300 to-emerald-300 hover:text-white'>rkashif96@gmail.com</p>
-            </div>
+            </div> */}
         </div>
     );
 };
